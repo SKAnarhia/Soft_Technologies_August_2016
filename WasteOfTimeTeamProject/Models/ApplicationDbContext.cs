@@ -16,6 +16,8 @@ namespace WasteOfTimeTeamProject.Models
         {
         }
 
+        public IDbSet<Post> Post { get; set; }
+
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
