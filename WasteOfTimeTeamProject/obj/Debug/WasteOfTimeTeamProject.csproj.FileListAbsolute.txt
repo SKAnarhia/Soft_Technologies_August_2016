@@ -133,7 +133,6 @@ C:\Users\user1\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\bin\
 C:\Users\user1\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\user1\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\user1\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\user1\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\obj\Debug\WasteOfTimeTeamProject.csprojResolveAssemblyReference.cache
 C:\Users\user1\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\obj\Debug\WasteOfTimeTeamProject.dll
 C:\Users\user1\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\obj\Debug\WasteOfTimeTeamProject.pdb
 C:\Users\Veni&Mitko\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\bin\roslyn\csc.exe
@@ -205,3 +204,5 @@ C:\Users\Veni&Mitko\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject
 C:\Users\Veni&Mitko\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\obj\Debug\WasteOfTimeTeamProject.csprojResolveAssemblyReference.cache
 C:\Users\Veni&Mitko\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\obj\Debug\WasteOfTimeTeamProject.dll
 C:\Users\Veni&Mitko\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\obj\Debug\WasteOfTimeTeamProject.pdb
+C:\Users\user1\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\obj\Debug\WasteOfTimeTeamProject.Migrations.InitialCreate.resources
+C:\Users\user1\Desktop\Soft_Technologies_August_2016\WasteOfTimeTeamProject\obj\Debug\WasteOfTimeTeamProject.csproj.GenerateResource.Cache
